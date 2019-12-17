@@ -165,8 +165,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-wrtbwmon=y
           CONFIG_PACKAGE_luci-app-aliddns=y
           CONFIG_PACKAGE_luci-app-ddns=y
-          CONFIG_PACKAGE_luci-app-flowoffload=y
-          CONFIG_PACKAGE_luci-app-sfe=y
+          CONFIG_PACKAGE_luci-app-flowoffload=y          
           CONFIG_PACKAGE_luci-app-vlmcsd=y
           CONFIG_PACKAGE_luci-app-firewall=y
           
