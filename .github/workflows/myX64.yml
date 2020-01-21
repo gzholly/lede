@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: OpenWrt-NewifiD2
+name: OpenWrt-myX64
 
 on:
   schedule:
